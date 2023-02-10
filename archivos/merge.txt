@@ -1,0 +1,3 @@
+no era posible realizar el commit porque la carpeta se encontraba vacia
+nota 1: realicé revert del commit merge porque al clonar el repositorio en mi pc se desccargaron los cambios y por lo tanto no se producia el conflicto
+nota 2: realicé revert en varios momentos porque me equivoqué
