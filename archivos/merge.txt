@@ -1,3 +1,7 @@
 Yesica Andrea Henao Ceballos 
 19 años 
 Con la materia tengo grandes expectativas, deseo ampliar mis conocimientos y habilidades, deseo aprender muy bien todo lo relacionado con el curso para poder ponerlo en practica y que sea de gran utilidad en mi formacion academica y profesional
+no era posible realizar el commit porque la carpeta se encontraba vacia
+nota 1: realicé revert del commit merge porque al clonar el repositorio en mi pc se desccargaron los cambios y por lo tanto no se producia el conflicto
+nota 2: realicé revert en varios momentos porque me equivoqué
+respuesta punto 14: se debe tener cuidado al modificar dos archivos al mismo tiempo porque se pueden generar conflitos si no se baja la actualización mas reciente del archivo 
